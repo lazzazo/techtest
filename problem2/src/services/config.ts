@@ -1,0 +1,1 @@
+export const TOKEN_URL = 'https://interview.switcheo.com/prices.json';
